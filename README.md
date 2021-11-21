@@ -1,0 +1,2 @@
+# clearpass-templates
+ 
